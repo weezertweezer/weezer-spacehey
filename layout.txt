@@ -1,0 +1,19 @@
+<!-- Coded By Declan :3 --!>
+<style>
+body {
+     background-color: #189BCC !important;
+}
+ 
+ 
+</style>
+ 
+<style>
+ 
+.logo {
+ 
+content:url("https://github.com/weezertweezer/weezer-spacehey/blob/main/assests/logo.png?raw=true");
+ 
+}
+ 
+</style>
+ 
